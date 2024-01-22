@@ -40,9 +40,9 @@ body {
     color: #fff; /* Text color */
     padding: 15px 20px;
     font-size: 2em;
-    text-align: right;
+    text-align: left;
     border-radius: 3px; /* Slightly rounded corners for the display screen */
-    min-height: 15px; /* Minimum height for the display */
+    min-height: 10px; /* Minimum height for the display */
 }
 
 /* Button styles */
