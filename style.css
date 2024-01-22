@@ -19,7 +19,7 @@ body {
 /* Calculator container */
 .calculator {
     background-color: #f9f9f9; /* Calculator's background color */
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Outer shadow for the entire calculator */
 }
@@ -42,15 +42,15 @@ body {
     font-size: 2em;
     text-align: right;
     border-radius: 3px; /* Slightly rounded corners for the display screen */
-    min-height: 30px; /* Minimum height for the display */
+    min-height: 15px; /* Minimum height for the display */
 }
 
 /* Button styles */
 .button {
     text-align: center; /* Center text horizontally */
     width: 70px; /* Fixed width */
-    height: 25px; /* Fixed height */
-    line-height: 20px; /* Center text vertically */
+    height: 15px; /* Fixed height */
+    line-height: 15px; /* Center text vertically */
     text-align: center; /* Center text horizontally */
     background-color: #f7f7f7; /* Light grey background */
     border: 1px solid #d4d4d4; /* Slightly darker border for definition */
