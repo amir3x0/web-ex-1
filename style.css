@@ -50,7 +50,7 @@ body {
     text-align: center; /* Center text horizontally */
     width: 70px; /* Fixed width */
     height: 15px; /* Fixed height */
-    line-height: 15px; /* Center text vertically */
+    line-height: 8px; /* Center text vertically */
     text-align: center; /* Center text horizontally */
     background-color: #f7f7f7; /* Light grey background */
     border: 1px solid #d4d4d4; /* Slightly darker border for definition */
