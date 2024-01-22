@@ -49,7 +49,7 @@ body {
 .button {
     text-align: center; /* Center text horizontally */
     width: 70px; /* Fixed width */
-    height: 30px; /* Fixed height */
+    height: 25px; /* Fixed height */
     line-height: 20px; /* Center text vertically */
     text-align: center; /* Center text horizontally */
     background-color: #f7f7f7; /* Light grey background */
